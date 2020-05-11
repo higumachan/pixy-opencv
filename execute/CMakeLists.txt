@@ -1,0 +1,3 @@
+add_executable(check_capture check_capture.cpp)
+
+target_link_libraries(check_capture pixyopencv)

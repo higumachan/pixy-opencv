@@ -1,0 +1,3 @@
+[submodule "submodules/pixy2"]
+	path = submodules/pixy2
+	url = git@github.com:higumachan/pixy2.git
